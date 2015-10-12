@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cerebro84@gmail.com",
+    "longName": "VectorAnimationsTutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "VectorAnimationsTutorial",
+    "uuid": "119984db-ec35-4232-b3ff-8d0616197258",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
