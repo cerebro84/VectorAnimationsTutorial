@@ -7,10 +7,19 @@
     "longName": "VectorAnimationsTutorial",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "data/weather_image.pdc",
+                "name": "WEATHER_IMAGE",
+                "type": "raw"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "VectorAnimationsTutorial",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "119984db-ec35-4232-b3ff-8d0616197258",
     "versionLabel": "1.0",
     "watchapp": {
